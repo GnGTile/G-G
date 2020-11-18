@@ -39,7 +39,7 @@ body {
 
 @media screen and (max-width: 992px) {
   .mainPageImg img{
-    height: 200px !important;
+    height: 400px !important;
     width: 100% !important;
   }
 }
